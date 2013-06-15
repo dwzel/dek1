@@ -13,6 +13,7 @@
 ; and it launches a new Notepad window (or activates an existing one).  To
 ; try out these hotkeys, run AutoHotkey again, which will load this file.
 
+; THIS IS A TEST TO SEE IF THIS IS SPOTTED.
 ; Begin comment
 ^+.::
 SendInput // ???_%A_YYYY%%A_MM%%A_DD% >>
