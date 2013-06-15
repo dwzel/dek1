@@ -14,6 +14,7 @@
 ; try out these hotkeys, run AutoHotkey again, which will load this file.
 
 ; THIS IS A TEST TO SEE IF THIS IS SPOTTED.
+; ok, now what does this do??????????????????????
 ; Begin comment
 ^+.::
 SendInput // ???_%A_YYYY%%A_MM%%A_DD% >>
